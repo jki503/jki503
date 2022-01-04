@@ -5,7 +5,7 @@
 
 [![Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jki503&show_icons=true&theme=merko)](https://github.com/jki503/github-readme-stats)
 
-test
+te
 
 <!--
 **jki503/jki503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
