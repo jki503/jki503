@@ -3,10 +3,6 @@
 [![Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jki503&show_icons=true&theme=onedark))](https://github.com/jki503/github-readme-stats)
 
 
-출처: https://msyu1207.tistory.com/116 [Lotts Blog]
-
-출처: https://msyu1207.tistory.com/116 [Lotts Blog]
-
 <!--
 **jki503/jki503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
