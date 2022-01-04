@@ -1,6 +1,10 @@
-### Hi there 👋
+### With good people, I wanna make a better world
 
-[![Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jki503&show_icons=true&theme=onedark))](https://github.com/jki503/github-readme-stats)
+![JAVA Badge](https://img.shields.io/badge/JAVA-007396?style=flat-plastic&logo=java&logoColor=white)
+![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-plastic&logo=java&logoColor=white)
+
+[![Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jki503&show_icons=true&theme=merko)](https://github.com/jki503/github-readme-stats)
+
 
 
 <!--
