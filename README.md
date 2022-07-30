@@ -5,6 +5,10 @@
 
 [![Jung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jki503&show_icons=true&theme=merko)](https://github.com/jki503/github-readme-stats)
 
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/inseong-so/inseong-so/assets/github-contribution-grid-snake.svg" />
+</div>
+
 <p>
   <!--<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=goflvhxj2547">-->
 </p>
