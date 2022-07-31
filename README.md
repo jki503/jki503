@@ -10,6 +10,14 @@
 
 </br>
 
+## FootPrint
+
+</br>
+
+- 2022.03 ~ 2022.08 / K-Digital Training 2기 클라우드 기반 백엔드 엔지니어링 - (주 : Grepp)
+
+</br>
+
 ## My Skill
 
 <div align="left">  
