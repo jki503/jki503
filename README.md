@@ -1,4 +1,4 @@
-# 👋 안녕하세요 개발이 재밌어서 백엔드 개발자를 준비 중인 정경일입니다!
+# 👋 안녕하세요 백엔드 개발자를 준비 중인 정경일입니다!
 
 - 🧪 테스트 코드 작성을 중요하게 생각합니다!
 
@@ -20,13 +20,29 @@
 
 ## My Skill
 
-<div align="left">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-</div>
+</br>
+
+- **Back-End**
+  - JAVA 11
+  - Spring Boot
+
+</br>
+
+- **Database**
+  - **Spring Data JPA**, JDBC, QueryDsl, Junit5
+  - **MySQL**, Redis
+
+</br>
+
+- **DevOps**
+  - AWS(EC2, RDS, S3), Docker, Github Actions
+
+</br>
+
+- **Collaboration & Tools**
+  - Git / Github
+  - **RestDocs** / Swagger
+  - **Jira** / Slack / Discord
 
 </br>
 
