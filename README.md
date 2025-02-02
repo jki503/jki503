@@ -2,6 +2,11 @@
 
 </br>
 
+- **Infra**
+  - Virtual Machine(VM)
+  - Linux(RHEL 7.4/8.6/9.2, Rocky 9.2)
+  - Orchestration(Kubernetes)
+
 - **Back-End**
   - JAVA 11
   - Spring Boot
