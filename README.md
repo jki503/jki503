@@ -1,7 +1,5 @@
 # My Skill
 
-email test
-
 </br>
 
 - **Infra**
